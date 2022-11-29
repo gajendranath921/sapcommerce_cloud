@@ -1,0 +1,10 @@
+{
+  "files": {
+    "hybris/bin/modules/smartedit/smartedittools/apps/test-server/.rush/temp/shrinkwrap-deps.json": "d3e8cad504031f411711fc03e1ad60f67f6545d5",
+    "hybris/bin/modules/smartedit/smartedittools/apps/test-server/README.md": "34bef5d60b6a405b89417b8b31c9e395d87aadd4",
+    "hybris/bin/modules/smartedit/smartedittools/apps/test-server/package.json": "bbeb78d58821613908f3d57e73d9707d85fb52bc",
+    "hybris/bin/modules/smartedit/smartedittools/apps/test-server/src/index.ts": "15963613d3662e5d568840a409fdbe3624b03fc9",
+    "hybris/bin/modules/smartedit/smartedittools/apps/test-server/tsconfig.json": "9a07906547320d2ec448052119c6050fddab3901"
+  },
+  "arguments": "tsc -p ./tsconfig.json "
+}

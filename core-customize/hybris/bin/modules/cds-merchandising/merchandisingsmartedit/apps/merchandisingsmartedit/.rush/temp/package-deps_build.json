@@ -1,0 +1,21 @@
+{
+  "files": {
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/.rush/temp/shrinkwrap-deps.json": "43a81eefbe0fd6c7c083bdd40b6aed418011d15c",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/dist/index.d.ts": "63d769975cf53d4b83e806539f37810dcbe86683",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/dist/index.js": "177e23cb4674d7798858fbfb82fb44f809a7d6a5",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/dist/merchandisingsmartedit.d.ts": "58e8c5b8db7341b4102fb1240d79cbc38f23238b",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/dist/styles.css": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/karma.conf.js": "473ed3501fe6c21462713d31a03652d541b44b79",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/merchandisingsmartedit.build.log": "c230401bdfc92f35bf14d122ce7a655a003f399f",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/package.json": "99380d60ea7ed71c7a538bc2941dc29931a61f8a",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/smartedit.json": "c8bd3b0b0e663561f3a2da0d1f2b3afbca6dd24b",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/src/index.ts": "5e9224efb6d18b291dc41b97b27b241c044f563c",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/src/merchandisingsmartedit.ts": "b851567fe7a5d23ef5c6bfbfc507060e39c85404",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/tests/features/dummyTest.ts": "55180b11b918451596f61ee7ccc6bf902950a26e",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/tsconfig.build.json": "58fcc7fad3dc66d7db2b00fb1fc0cc118dd54595",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/tsconfig.json": "fac9bc529fd360031dc1c0288614efbbe55e2ac4",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/tsconfig.spec.json": "4e1e9c1e9a5f9003adb7120a53c12b5f0ee3e2e2",
+    "hybris/bin/modules/cds-merchandising/merchandisingsmartedit/apps/merchandisingsmartedit/webpack.config.spec": "713cf2682a58f0987fdf5e6ea4d942c8139ce101"
+  },
+  "arguments": "se-packagr "
+}

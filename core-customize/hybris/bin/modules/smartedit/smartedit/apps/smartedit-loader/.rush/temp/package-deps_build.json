@@ -1,0 +1,17 @@
+{
+  "files": {
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/.rush/temp/shrinkwrap-deps.json": "fadb983925a66362ca725b1ef23a0647140ef2f1",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/.eslintrc.js": "4e48b6019663312b651e581a007d0eb6beab50e0",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/README.md": "01f14fc6f60faae5f13c238b2c61498a803be3a4",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/package.json": "8c44b95c8047a3ec8ca5db6c3c95c6de36ebf5a2",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/smartedit.json": "fbf2c5d10862a30dfa05462f1ece39bb448a1d5e",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/src/SmarteditloaderComponent.ts": "722948c0a498963e6c9aced19ddba329428e9d13",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/src/index.ts": "ff67cc3d0bd92cb61fa6ffb489c518123510e981",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/src/legacySmarteditloader.ts": "89536dff3e375cdc932312ecbc0fea5805cbf9f7",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/src/smarteditloader.ts": "bf6fff514e17113a6a1a02d5466f3c8f598bcabc",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/styling/sass/styling.scss": "fba72635d4f600176b631870a9ea0e80e7067fa2",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/tsconfig.build.json": "2f5bfbb60b5345b6b697031e235b77f88c67d5ae",
+    "hybris/bin/modules/smartedit/smartedit/apps/smartedit-loader/tsconfig.json": "9396129eb09d5e9b140450638b12108a74b02838"
+  },
+  "arguments": "se-packagr "
+}
